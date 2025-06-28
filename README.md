@@ -24,10 +24,19 @@ To keep track of my progress, improve problem-solving skills, and help others le
 - Python 3  
 - LeetCode  
 - Git & GitHub  
-
-
-<pre lang="markdown"> ## 📁 Example Structure ``` leetcode-fav-solutions/ ├── arrays/ │ └── two_sum.py ├── trees/ │ └── max_depth.py ├── recursion/ │ └── is_symmetric.py └── README.md ``` </pre>
-
+---
+# Example Structure
+```
+leetcode-fav-solutions/
+├── arrays/
+│ └── two_sum.py
+├── trees/
+│ └── max_depth.py
+├── recursion/
+│ └── is_symmetric.py
+└── README.md
+```
+---
 ## 🔗 Connect with Me
 
 - GitHub: [@Abdul00YO](https://github.com/Abdul00YO)  
