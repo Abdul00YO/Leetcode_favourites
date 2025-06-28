@@ -25,10 +25,8 @@ To keep track of my progress, improve problem-solving skills, and help others le
 - LeetCode  
 - Git & GitHub  
 
----
 
 <pre lang="markdown"> ## 📁 Example Structure ``` leetcode-fav-solutions/ ├── arrays/ │ └── two_sum.py ├── trees/ │ └── max_depth.py ├── recursion/ │ └── is_symmetric.py └── README.md ``` </pre>
----
 
 ## 🔗 Connect with Me
 
